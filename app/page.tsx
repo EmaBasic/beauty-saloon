@@ -108,7 +108,7 @@ export default function Home() {
         <div className="container">
            <div className="text-center mb-10">
               <h2 className="sectionTitle">Book Online</h2>
-              <p className="sectionLead mx-auto">Select your service and preferred time below.</p>
+              <p className="sectionLead mx-auto">Select your service and preferred times below.</p>
            </div>
            <BookingForm />
         </div>
